@@ -1,0 +1,11 @@
+Model Information:
+* title:	Table & Chair Sets
+* source:	https://sketchfab.com/3d-models/table-chair-sets-15b4b4e0159a4cbcb71165d9561195ea
+* author:	everycraft (https://sketchfab.com/everycraft)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Table & Chair Sets" (https://sketchfab.com/3d-models/table-chair-sets-15b4b4e0159a4cbcb71165d9561195ea) by everycraft (https://sketchfab.com/everycraft) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
