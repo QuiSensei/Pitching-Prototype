@@ -1,0 +1,11 @@
+Model Information:
+* title:	Argon 4704 wall lamp
+* source:	https://sketchfab.com/3d-models/argon-4704-wall-lamp-98b6b89273e3428087556f8a054c565b
+* author:	lajos.makra (https://sketchfab.com/lajos.makra)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Argon 4704 wall lamp" (https://sketchfab.com/3d-models/argon-4704-wall-lamp-98b6b89273e3428087556f8a054c565b) by lajos.makra (https://sketchfab.com/lajos.makra) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
